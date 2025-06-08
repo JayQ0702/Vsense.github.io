@@ -1,16 +1,40 @@
 ---
 layout:       post
-title:        "《JavaScript 二十年》推荐语"
-author:       "Hux"
+title:        "Orvibo New Zealand"
+author:       "Vsense"
 header-style: text
 catalog:      true
 tags:
     - Web
     - JavaScript
 ---
+# Vesense
 
-> 雪碧（doodlewind）邀请我给[《JavaScript 二十年》](https://zhuanlan.zhihu.com/p/373065151) 写的推荐序。
+## Orvibo New Zealand
 
-JavaScript 常常被戏称为一门偶然成功的玩具语言。而实际上，它出身名门，更是成长在聚光灯之下。纵观历史，有资格被标准化的编程语言甚少，它因此成为多方角力的战场，却也有幸同时得到业界与学界先驱的亲传。时至今日，我们甚至难言是它背负了太多妥协，还是这些妥协才成就了它呢。以史为鉴，或许你会有自己的答案。
+**Team Members**
+      | Name | Title |
+      | ----- | ----- |
+      | Helen | Director |
+      | Jay | Director |
+      | Melody | Director |
+      | Tecco | Director |
 
-— 黄玄，Facebook 软件工程师（编程语言、JS 引擎、前端基础设施）、中文前端社区活跃成员。
+
+**Address**
+*   **行内式链接:** 使用 `[链接文字](链接地址)`。
+    *   `[访问我的网站](https://www.example.com)`
+*   **参考式链接:**  使用 `[链接文字][链接标签]`，然后在文档末尾定义链接标签。
+    *   `[访问我的网站][我的网站]`
+    *   `[我的网站]: https://www.example.com "我的网站链接"`
+
+
+**Established Time**
+*   使用三个或更多个 `*`, `-` 或 `_` 字符来创建水平分割线。
+    *   `---`
+    *   `***`
+    *   `___`
+
+**Details**
+*   使用 `![图片说明](图片地址)`。
+    *   `![我的图片](https://www.example.com/image.jpg)`
